@@ -105,19 +105,6 @@ print(f"Win Probability: {win_probability:.2%}")
 - Certain **team-venue combinations** show historical advantages
 - Model achieves good accuracy for real-time match predictions
 
-## 🔮 Future Enhancements
-
-- [ ] Include player-specific statistics
-- [ ] Add weather and pitch conditions
-- [ ] Incorporate recent team form
-- [ ] Build a web application for live predictions
-- [ ] Deploy as a REST API
-- [ ] Add more advanced ensemble methods
-
-## 📝 License
-
-This project is open-source and available under the MIT License.
-
 ## 👤 Author
 
 **Ankit Sharma**
